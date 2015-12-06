@@ -4,7 +4,7 @@ namespace BrisXmasTechDrinks2015Rsvps
 {   
 	public static class Data
 	{
-                public static string ApiKey = Environment.GetEnvironmentVariable("meetup-api-key");
+                public static string ApiKey = Environment.GetEnvironmentVariable("CUSTOMCONNSTR_meetup-api-key");
                 
                 public static int[] EventIds = 
                 new []
