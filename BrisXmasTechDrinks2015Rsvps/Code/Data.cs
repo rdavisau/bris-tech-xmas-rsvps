@@ -14,7 +14,7 @@ namespace BrisXmasTechDrinks2015Rsvps
                         226710929, // bfpg
                         226742671, // web design
                         226742127, // cocoa
-                        227283358, // .netug doesn't have their own event
+                        227283358, // .netug
                         227085500, // agile
                         226987932, // devops
                                    // jvm doesn't have their own event
